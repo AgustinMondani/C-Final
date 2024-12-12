@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|c:\\users\\amond\\onedrive\\escritorio\\final laboratorio ii practica\\pruebita\\20220621-sp\\20220621-sp-alumno.div\\entidades\\diagramasp.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|solutionrelative:entidades\\diagramasp.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E71BCF-7EF1-4F17-90C2-AE819F4D1CC8}|20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV.csproj|c:\\users\\amond\\onedrive\\escritorio\\final laboratorio ii practica\\pruebita\\20220621-sp\\20220621-sp-alumno.div\\20220621-sp-alumno.div\\frmview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E71BCF-7EF1-4F17-90C2-AE819F4D1CC8}|20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV.csproj|solutionrelative:20220621-sp-alumno.div\\frmview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E71BCF-7EF1-4F17-90C2-AE819F4D1CC8}|20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV.csproj|C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\20220621-sp-alumno.div\\frmview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80E71BCF-7EF1-4F17-90C2-AE819F4D1CC8}|20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV.csproj|solutionrelative:20220621-sp-alumno.div\\frmview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|c:\\users\\amond\\onedrive\\escritorio\\final laboratorio ii practica\\pruebita\\20220621-sp\\20220621-sp-alumno.div\\entidades\\models\\ahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|solutionrelative:entidades\\models\\ahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|c:\\users\\amond\\onedrive\\escritorio\\final laboratorio ii practica\\pruebita\\20220621-sp\\20220621-sp-alumno.div\\entidades\\database\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|solutionrelative:entidades\\database\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|c:\\users\\amond\\onedrive\\escritorio\\final laboratorio ii practica\\pruebita\\20220621-sp\\20220621-sp-alumno.div\\entidades\\entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|solutionrelative:entidades\\entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|c:\\users\\amond\\onedrive\\escritorio\\final laboratorio ii practica\\pruebita\\20220621-sp\\20220621-sp-alumno.div\\entidades\\interfaces\\ilector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|solutionrelative:entidades\\interfaces\\ilector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|c:\\users\\amond\\onedrive\\escritorio\\final laboratorio ii practica\\pruebita\\20220621-sp\\20220621-sp-alumno.div\\entidades\\extension\\randomextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|solutionrelative:entidades\\extension\\randomextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|c:\\users\\amond\\onedrive\\escritorio\\final laboratorio ii practica\\pruebita\\20220621-sp\\20220621-sp-alumno.div\\entidades\\files\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|solutionrelative:entidades\\files\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|c:\\users\\amond\\onedrive\\escritorio\\final laboratorio ii practica\\pruebita\\20220621-sp\\20220621-sp-alumno.div\\entidades\\exceptions\\databasemanagerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|solutionrelative:entidades\\exceptions\\databasemanagerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|c:\\users\\amond\\onedrive\\escritorio\\final laboratorio ii practica\\pruebita\\20220621-sp\\20220621-sp-alumno.div\\entidades\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|solutionrelative:entidades\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|c:\\users\\amond\\onedrive\\escritorio\\final laboratorio ii practica\\pruebita\\20220621-sp\\20220621-sp-alumno.div\\entidades\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3FC3C2-99EC-4875-9A40-CC71626C8BFB}|Entidades\\Entidades.csproj|solutionrelative:entidades\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E71BCF-7EF1-4F17-90C2-AE819F4D1CC8}|20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV.csproj|c:\\users\\amond\\onedrive\\escritorio\\final laboratorio ii practica\\pruebita\\20220621-sp\\20220621-sp-alumno.div\\20220621-sp-alumno.div\\20220621-sp-alumno.div.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80E71BCF-7EF1-4F17-90C2-AE819F4D1CC8}|20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV.csproj|solutionrelative:20220621-sp-alumno.div\\20220621-sp-alumno.div.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E71BCF-7EF1-4F17-90C2-AE819F4D1CC8}|20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV.csproj|c:\\users\\amond\\onedrive\\escritorio\\final laboratorio ii practica\\pruebita\\20220621-sp\\20220621-sp-alumno.div\\20220621-sp-alumno.div\\frmview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E71BCF-7EF1-4F17-90C2-AE819F4D1CC8}|20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV.csproj|solutionrelative:20220621-sp-alumno.div\\frmview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD88637-7542-44A2-A0A5-9E7C1A14022E}|TestProjetest2\\Tests.csproj|c:\\users\\amond\\onedrive\\escritorio\\final laboratorio ii practica\\pruebita\\20220621-sp\\20220621-sp-alumno.div\\testprojetest2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD88637-7542-44A2-A0A5-9E7C1A14022E}|TestProjetest2\\Tests.csproj|solutionrelative:testprojetest2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiagramaSP.cd",
+              "DocumentMoniker": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\DiagramaSP.cd",
+              "RelativeDocumentMoniker": "Entidades\\DiagramaSP.cd",
+              "ToolTip": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\DiagramaSP.cd",
+              "RelativeToolTip": "Entidades\\DiagramaSP.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-09-20T03:52:40.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataBaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\DataBase\\DataBaseManager.cs",
+              "RelativeDocumentMoniker": "Entidades\\DataBase\\DataBaseManager.cs",
+              "ToolTip": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\DataBase\\DataBaseManager.cs",
+              "RelativeToolTip": "Entidades\\DataBase\\DataBaseManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:52:03.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\Files\\FileManager.cs",
+              "RelativeDocumentMoniker": "Entidades\\Files\\FileManager.cs",
+              "ToolTip": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\Files\\FileManager.cs",
+              "RelativeToolTip": "Entidades\\Files\\FileManager.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAxwDIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:52:03.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ahorcado.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\Models\\Ahorcado.cs",
+              "RelativeDocumentMoniker": "Entidades\\Models\\Ahorcado.cs",
+              "ToolTip": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\Models\\Ahorcado.cs",
+              "RelativeToolTip": "Entidades\\Models\\Ahorcado.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAMMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:52:03.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entidades.csproj",
+              "DocumentMoniker": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\Entidades.csproj",
+              "RelativeDocumentMoniker": "Entidades\\Entidades.csproj",
+              "ToolTip": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\Entidades.csproj",
+              "RelativeToolTip": "Entidades\\Entidades.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T03:52:03.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataBaseManagerException.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\Exceptions\\DataBaseManagerException.cs",
+              "RelativeDocumentMoniker": "Entidades\\Exceptions\\DataBaseManagerException.cs",
+              "ToolTip": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\Exceptions\\DataBaseManagerException.cs",
+              "RelativeToolTip": "Entidades\\Exceptions\\DataBaseManagerException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:52:03.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILector.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\Interfaces\\ILector.cs",
+              "RelativeDocumentMoniker": "Entidades\\Interfaces\\ILector.cs",
+              "ToolTip": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\Interfaces\\ILector.cs",
+              "RelativeToolTip": "Entidades\\Interfaces\\ILector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:52:04.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmView.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV\\FrmView.cs",
+              "RelativeDocumentMoniker": "20220621-SP-ALUMNO.DIV\\FrmView.cs",
+              "ToolTip": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV\\FrmView.cs",
+              "RelativeToolTip": "20220621-SP-ALUMNO.DIV\\FrmView.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:52:04.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\TestProjetest2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProjetest2\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\TestProjetest2\\UnitTest1.cs",
+              "RelativeToolTip": "TestProjetest2\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:52:04.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\Models\\Pais.cs",
+              "RelativeDocumentMoniker": "Entidades\\Models\\Pais.cs",
+              "ToolTip": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\Models\\Pais.cs",
+              "RelativeToolTip": "Entidades\\Models\\Pais.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:52:04.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmView.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV\\FrmView.cs",
+              "RelativeDocumentMoniker": "20220621-SP-ALUMNO.DIV\\FrmView.cs",
+              "ToolTip": "C:\\Users\\amond\\OneDrive\\Escritorio\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV\\FrmView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV\\FrmView.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-20T03:52:05.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RandomExtension.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\Extension\\RandomExtension.cs",
+              "RelativeDocumentMoniker": "Entidades\\Extension\\RandomExtension.cs",
+              "ToolTip": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\Extension\\RandomExtension.cs",
+              "RelativeToolTip": "Entidades\\Extension\\RandomExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:52:05.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\Models\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Entidades\\Models\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\Entidades\\Models\\Vehiculo.cs",
+              "RelativeToolTip": "Entidades\\Models\\Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:52:05.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV\\FrmView.Designer.cs",
+              "RelativeDocumentMoniker": "20220621-SP-ALUMNO.DIV\\FrmView.Designer.cs",
+              "ToolTip": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV\\FrmView.Designer.cs",
+              "RelativeToolTip": "20220621-SP-ALUMNO.DIV\\FrmView.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:52:05.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20220621-SP-ALUMNO.DIV.csproj",
+              "DocumentMoniker": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV.csproj",
+              "RelativeDocumentMoniker": "20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV.csproj",
+              "ToolTip": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\pruebita\\20220621-SP\\20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV.csproj",
+              "RelativeToolTip": "20220621-SP-ALUMNO.DIV\\20220621-SP-ALUMNO.DIV.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T03:52:05.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

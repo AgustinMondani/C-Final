@@ -1,0 +1,24 @@
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Entidades\bin\Debug\Entidades.dll
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Entidades\obj\Debug\Entidades.dll
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Entidades\bin\Debug\Entidades.dll
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Entidades\obj\Debug\Entidades.dll
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Entidades\bin\Debug\Entidades.dll
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Entidades\obj\Debug\Entidades.dll
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Patentes\Entidades\bin\Debug\Entidades.dll
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Patentes\Entidades\bin\Debug\Entidades.pdb
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Patentes\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Patentes\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Patentes\Entidades\obj\Debug\Entidades.dll
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Patentes\Entidades\obj\Debug\Entidades.pdb

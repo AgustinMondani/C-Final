@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Archivo||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7081766-6A0B-4BFF-B9D6-01667525E383}|Entidades\\Entidades.csproj|C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\entidades\\patenteinvalidaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7081766-6A0B-4BFF-B9D6-01667525E383}|Entidades\\Entidades.csproj|solutionrelative:entidades\\patenteinvalidaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\archivo\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|solutionrelative:archivo\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\archivo\\iarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|solutionrelative:archivo\\iarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\archivo\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|solutionrelative:archivo\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\archivo\\texto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|solutionrelative:archivo\\texto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7081766-6A0B-4BFF-B9D6-01667525E383}|Entidades\\Entidades.csproj|C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\entidades\\patentestringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7081766-6A0B-4BFF-B9D6-01667525E383}|Entidades\\Entidades.csproj|solutionrelative:entidades\\patentestringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7081766-6A0B-4BFF-B9D6-01667525E383}|Entidades\\Entidades.csproj|C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\entidades\\patente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7081766-6A0B-4BFF-B9D6-01667525E383}|Entidades\\Entidades.csproj|solutionrelative:entidades\\patente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17B0033-D026-43AF-935D-C82520B05AC1}|VistaPatente\\VistaPatentes.csproj|C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\vistapatente\\vistapatente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17B0033-D026-43AF-935D-C82520B05AC1}|VistaPatente\\VistaPatentes.csproj|solutionrelative:vistapatente\\vistapatente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F13393D-015E-4651-9FA8-AB2B71485257}|Formulario\\Formulario.csproj|C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\formulario\\frmpricipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F13393D-015E-4651-9FA8-AB2B71485257}|Formulario\\Formulario.csproj|solutionrelative:formulario\\frmpricipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|c:\\users\\amond\\desktop\\final laboratorio ii practica\\patentes\\archivo\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Archivo",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Archivo\\Archivo.csproj",
+              "RelativeDocumentMoniker": "Archivo\\Archivo.csproj",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Archivo\\Archivo.csproj",
+              "RelativeToolTip": "Archivo\\Archivo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-24T00:06:34.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IArchivo.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Archivo\\IArchivo.cs",
+              "RelativeDocumentMoniker": "Archivo\\IArchivo.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Archivo\\IArchivo.cs",
+              "RelativeToolTip": "Archivo\\IArchivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T22:40:49.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatenteStringExtension.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Entidades\\PatenteStringExtension.cs",
+              "RelativeDocumentMoniker": "Entidades\\PatenteStringExtension.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Entidades\\PatenteStringExtension.cs",
+              "RelativeToolTip": "Entidades\\PatenteStringExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:15:50.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatenteInvalidaException.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Entidades\\PatenteInvalidaException.cs",
+              "RelativeDocumentMoniker": "Entidades\\PatenteInvalidaException.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Entidades\\PatenteInvalidaException.cs",
+              "RelativeToolTip": "Entidades\\PatenteInvalidaException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:15:48.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patente.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Entidades\\Patente.cs",
+              "RelativeDocumentMoniker": "Entidades\\Patente.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Entidades\\Patente.cs",
+              "RelativeToolTip": "Entidades\\Patente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:15:47.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Xml.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Archivo\\Xml.cs",
+              "RelativeDocumentMoniker": "Archivo\\Xml.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Archivo\\Xml.cs",
+              "RelativeToolTip": "Archivo\\Xml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:15:45.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Texto.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Archivo\\Texto.cs",
+              "RelativeDocumentMoniker": "Archivo\\Texto.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Archivo\\Texto.cs",
+              "RelativeToolTip": "Archivo\\Texto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:15:44.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sql.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Archivo\\Sql.cs",
+              "RelativeDocumentMoniker": "Archivo\\Sql.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Archivo\\Sql.cs",
+              "RelativeToolTip": "Archivo\\Sql.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:15:43.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmPricipal.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Formulario\\FrmPricipal.cs",
+              "RelativeDocumentMoniker": "Formulario\\FrmPricipal.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\Formulario\\FrmPricipal.cs",
+              "RelativeToolTip": "Formulario\\FrmPricipal.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwBMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:12:03.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VistaPatente.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\VistaPatente\\VistaPatente.cs",
+              "RelativeDocumentMoniker": "VistaPatente\\VistaPatente.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Final Laboratorio II Practica\\Patentes\\VistaPatente\\VistaPatente.cs",
+              "RelativeToolTip": "VistaPatente\\VistaPatente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:10:29.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

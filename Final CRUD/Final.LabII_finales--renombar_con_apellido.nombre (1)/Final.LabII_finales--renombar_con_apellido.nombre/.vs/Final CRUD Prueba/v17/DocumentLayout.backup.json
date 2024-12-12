@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final crud\\final.labii_finales--renombar_con_apellido.nombre (1)\\final.labii_finales--renombar_con_apellido.nombre\\winformsapp\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final crud\\final.labii_finales--renombar_con_apellido.nombre (1)\\final.labii_finales--renombar_con_apellido.nombre\\winformsapp\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final crud\\final.labii_finales--renombar_con_apellido.nombre (1)\\final.labii_finales--renombar_con_apellido.nombre\\winformsapp\\frmlistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\frmlistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7649140B-7DC0-42EB-BB88-22B4B1D6A485}|Entidades.Final\\Entidades.Final.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final crud\\final.labii_finales--renombar_con_apellido.nombre (1)\\final.labii_finales--renombar_con_apellido.nombre\\entidades.final\\manejadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7649140B-7DC0-42EB-BB88-22B4B1D6A485}|Entidades.Final\\Entidades.Final.csproj|solutionrelative:entidades.final\\manejadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7649140B-7DC0-42EB-BB88-22B4B1D6A485}|Entidades.Final\\Entidades.Final.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final crud\\final.labii_finales--renombar_con_apellido.nombre (1)\\final.labii_finales--renombar_con_apellido.nombre\\entidades.final\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7649140B-7DC0-42EB-BB88-22B4B1D6A485}|Entidades.Final\\Entidades.Final.csproj|solutionrelative:entidades.final\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7649140B-7DC0-42EB-BB88-22B4B1D6A485}|Entidades.Final\\Entidades.Final.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final crud\\final.labii_finales--renombar_con_apellido.nombre (1)\\final.labii_finales--renombar_con_apellido.nombre\\entidades.final\\ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7649140B-7DC0-42EB-BB88-22B4B1D6A485}|Entidades.Final\\Entidades.Final.csproj|solutionrelative:entidades.final\\ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final crud\\final.labii_finales--renombar_con_apellido.nombre (1)\\final.labii_finales--renombar_con_apellido.nombre\\winformsapp\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final crud\\final.labii_finales--renombar_con_apellido.nombre (1)\\final.labii_finales--renombar_con_apellido.nombre\\winformsapp\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7649140B-7DC0-42EB-BB88-22B4B1D6A485}|Entidades.Final\\Entidades.Final.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final crud\\final.labii_finales--renombar_con_apellido.nombre (1)\\final.labii_finales--renombar_con_apellido.nombre\\entidades.final\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7649140B-7DC0-42EB-BB88-22B4B1D6A485}|Entidades.Final\\Entidades.Final.csproj|solutionrelative:entidades.final\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final crud\\final.labii_finales--renombar_con_apellido.nombre (1)\\final.labii_finales--renombar_con_apellido.nombre\\winformsapp\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DDF9A8-9E7F-4D16-9C7D-9FB7055C4C71}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T01:15:50.364Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmPrincipal.cs",
+              "RelativeToolTip": "WinFormsApp\\FrmPrincipal.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAgwIkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:43:48.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmUsuario.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\FrmUsuario.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmUsuario.cs",
+              "RelativeToolTip": "WinFormsApp\\FrmUsuario.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:43:06.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manejadora.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\Entidades.Final\\Manejadora.cs",
+              "RelativeDocumentMoniker": "Entidades.Final\\Manejadora.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\Entidades.Final\\Manejadora.cs",
+              "RelativeToolTip": "Entidades.Final\\Manejadora.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T23:39:06.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmListado.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmListado.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\FrmListado.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmListado.cs",
+              "RelativeToolTip": "WinFormsApp\\FrmListado.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAQwJEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:28:22.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ADO.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\Entidades.Final\\ADO.cs",
+              "RelativeDocumentMoniker": "Entidades.Final\\ADO.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\Entidades.Final\\ADO.cs",
+              "RelativeToolTip": "Entidades.Final\\ADO.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:45:33.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\Entidades.Final\\Usuario.cs",
+              "RelativeDocumentMoniker": "Entidades.Final\\Usuario.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\Entidades.Final\\Usuario.cs",
+              "RelativeToolTip": "Entidades.Final\\Usuario.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwB8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:31:17.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmLogin.cs",
+              "RelativeToolTip": "WinFormsApp\\FrmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:23:59.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\WinFormsApp\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:23:49.068Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\Entidades.Final\\Login.cs",
+              "RelativeDocumentMoniker": "Entidades.Final\\Login.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final CRUD\\Final.LabII_finales--renombar_con_apellido.nombre (1)\\Final.LabII_finales--renombar_con_apellido.nombre\\Entidades.Final\\Login.cs",
+              "RelativeToolTip": "Entidades.Final\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:57:28.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

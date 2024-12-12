@@ -1,0 +1,44 @@
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\VistaPatente\bin\Debug\VistaPatentes.dll
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\VistaPatente\bin\Debug\VistaPatentes.pdb
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\VistaPatente\bin\Debug\Entidades.dll
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\VistaPatente\bin\Debug\Entidades.pdb
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\VistaPatente\obj\Debug\VistaPatentes.csproj.AssemblyReference.cache
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\VistaPatente\obj\Debug\VistaPatentes.csproj.GenerateResource.cache
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\VistaPatente\obj\Debug\VistaPatentes.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\VistaPatente\obj\Debug\VistaPat.1CF17449.Up2Date
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\VistaPatente\obj\Debug\VistaPatentes.dll
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\VistaPatente\obj\Debug\VistaPatentes.pdb
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\VistaPatente\obj\Debug\Patentes.VistaPatente.resources
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\VistaPatente\bin\Debug\VistaPatentes.dll
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\VistaPatente\bin\Debug\VistaPatentes.pdb
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\VistaPatente\bin\Debug\Entidades.dll
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\VistaPatente\bin\Debug\Entidades.pdb
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\VistaPatente\obj\Debug\VistaPatentes.csproj.AssemblyReference.cache
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\VistaPatente\obj\Debug\Patentes.VistaPatente.resources
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\VistaPatente\obj\Debug\VistaPatentes.csproj.GenerateResource.cache
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\VistaPatente\obj\Debug\VistaPatentes.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\VistaPatente\obj\Debug\VistaPat.1CF17449.Up2Date
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\VistaPatente\obj\Debug\VistaPatentes.dll
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\VistaPatente\obj\Debug\VistaPatentes.pdb
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\VistaPatente\bin\Debug\VistaPatentes.dll
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\VistaPatente\bin\Debug\VistaPatentes.pdb
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\VistaPatente\bin\Debug\Entidades.dll
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\VistaPatente\bin\Debug\Entidades.pdb
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\VistaPatente\obj\Debug\VistaPatentes.csproj.AssemblyReference.cache
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\VistaPatente\obj\Debug\Patentes.VistaPatente.resources
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\VistaPatente\obj\Debug\VistaPatentes.csproj.GenerateResource.cache
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\VistaPatente\obj\Debug\VistaPatentes.csproj.CoreCompileInputs.cache
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\VistaPatente\obj\Debug\VistaPatentes.csproj.CopyComplete
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\VistaPatente\obj\Debug\VistaPatentes.dll
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\VistaPatente\obj\Debug\VistaPatentes.pdb
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\VistaPatente\bin\Debug\VistaPatentes.dll
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\VistaPatente\bin\Debug\VistaPatentes.pdb
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\VistaPatente\bin\Debug\Entidades.dll
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\VistaPatente\bin\Debug\Entidades.pdb
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\VistaPatente\obj\Debug\VistaPatentes.csproj.AssemblyReference.cache
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\VistaPatente\obj\Debug\Patentes.VistaPatente.resources
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\VistaPatente\obj\Debug\VistaPatentes.csproj.GenerateResource.cache
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\VistaPatente\obj\Debug\VistaPatentes.csproj.CoreCompileInputs.cache
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\VistaPatente\obj\Debug\VistaPat.1CF17449.Up2Date
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\VistaPatente\obj\Debug\VistaPatentes.dll
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\VistaPatente\obj\Debug\VistaPatentes.pdb

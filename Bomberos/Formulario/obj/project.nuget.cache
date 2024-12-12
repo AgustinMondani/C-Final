@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "NwqKSWmrt4rZE2Bia5tLFrh3RKLgQ+AwoSUuw6ysGfRqrnEa+O584j0CnwNolYjyCH/NuYnrMqgqG+Dr71DdHg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\amond\\OneDrive\\Escritorio\\Final Laboratorio II Practica\\Segundo.Parcial.Bomberos\\Formulario\\Formulario.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto Entidades no es compatible con net5.0-windows7.0 (.NETCoreApp,Version=v5.0). El proyecto Entidades admite: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Entidades",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

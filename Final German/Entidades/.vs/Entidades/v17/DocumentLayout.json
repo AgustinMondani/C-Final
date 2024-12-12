@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8D913B-E32C-4093-8F4F-30AB8AE8BB67}|..\\ConsolaPrograma\\ConsolaPrograma.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final german\\consolaprograma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA325936-C124-4745-B25C-B65D1BCFE4B9}|Entidades.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final german\\entidades\\resultadocombate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA325936-C124-4745-B25C-B65D1BCFE4B9}|Entidades.csproj|solutionrelative:resultadocombate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA325936-C124-4745-B25C-B65D1BCFE4B9}|Entidades.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final german\\entidades\\personajedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA325936-C124-4745-B25C-B65D1BCFE4B9}|Entidades.csproj|solutionrelative:personajedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA325936-C124-4745-B25C-B65D1BCFE4B9}|Entidades.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final german\\entidades\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA325936-C124-4745-B25C-B65D1BCFE4B9}|Entidades.csproj|solutionrelative:personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA325936-C124-4745-B25C-B65D1BCFE4B9}|Entidades.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final german\\entidades\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA325936-C124-4745-B25C-B65D1BCFE4B9}|Entidades.csproj|solutionrelative:logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA325936-C124-4745-B25C-B65D1BCFE4B9}|Entidades.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final german\\entidades\\hechicero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA325936-C124-4745-B25C-B65D1BCFE4B9}|Entidades.csproj|solutionrelative:hechicero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA325936-C124-4745-B25C-B65D1BCFE4B9}|Entidades.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final german\\entidades\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA325936-C124-4745-B25C-B65D1BCFE4B9}|Entidades.csproj|solutionrelative:guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA325936-C124-4745-B25C-B65D1BCFE4B9}|Entidades.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final german\\entidades\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA325936-C124-4745-B25C-B65D1BCFE4B9}|Entidades.csproj|solutionrelative:combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA325936-C124-4745-B25C-B65D1BCFE4B9}|Entidades.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final german\\entidades\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA325936-C124-4745-B25C-B65D1BCFE4B9}|Entidades.csproj|solutionrelative:businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A799C9-D9EC-4FF3-9011-F691FDA42DBC}|..\\PruebasUnitarias\\PruebasUnitarias.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final german\\pruebasunitarias\\iniciopuntosdedefensa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A799C9-D9EC-4FF3-9011-F691FDA42DBC}|..\\PruebasUnitarias\\PruebasUnitarias.csproj|c:\\users\\amond\\desktop\\practica final labo2\\final german\\pruebasunitarias\\pruebasunitarias.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amond\\Desktop\\Final German\\ConsolaPrograma\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amond\\Desktop\\Final German\\PruebasUnitarias\\InicioPuntosDeDefensa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amond\\Desktop\\Final German\\PruebasUnitarias\\VidaNegativa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amond\\Desktop\\Final German\\PruebasUnitarias\\TesteDeNivelIncorrecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InicioPuntosDeDefensa.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\PruebasUnitarias\\InicioPuntosDeDefensa.cs",
+              "RelativeDocumentMoniker": "..\\PruebasUnitarias\\InicioPuntosDeDefensa.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\PruebasUnitarias\\InicioPuntosDeDefensa.cs",
+              "RelativeToolTip": "..\\PruebasUnitarias\\InicioPuntosDeDefensa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:32:28.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PruebasUnitarias",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\PruebasUnitarias\\PruebasUnitarias.csproj",
+              "RelativeDocumentMoniker": "..\\PruebasUnitarias\\PruebasUnitarias.csproj",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\PruebasUnitarias\\PruebasUnitarias.csproj",
+              "RelativeToolTip": "..\\PruebasUnitarias\\PruebasUnitarias.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T21:09:18.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\ConsolaPrograma\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaPrograma\\Program.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\ConsolaPrograma\\Program.cs",
+              "RelativeToolTip": "..\\ConsolaPrograma\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:41:38.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\Logger.cs",
+              "RelativeToolTip": "Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:54:33.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\BusinessException.cs",
+              "RelativeDocumentMoniker": "BusinessException.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\BusinessException.cs",
+              "RelativeToolTip": "BusinessException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:43:30.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultadoCombate.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\ResultadoCombate.cs",
+              "RelativeDocumentMoniker": "ResultadoCombate.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\ResultadoCombate.cs",
+              "RelativeToolTip": "ResultadoCombate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:31:32.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonajeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\PersonajeDAO.cs",
+              "RelativeDocumentMoniker": "PersonajeDAO.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\PersonajeDAO.cs",
+              "RelativeToolTip": "PersonajeDAO.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:50:06.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Combate.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\Combate.cs",
+              "RelativeDocumentMoniker": "Combate.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\Combate.cs",
+              "RelativeToolTip": "Combate.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAjwDUAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:49:43.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Final German\\ConsolaPrograma\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Final German\\ConsolaPrograma\\Program.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Final German\\ConsolaPrograma\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Final German\\ConsolaPrograma\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:49:14.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Guerrero.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\Guerrero.cs",
+              "RelativeDocumentMoniker": "Guerrero.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\Guerrero.cs",
+              "RelativeToolTip": "Guerrero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:41:25.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hechicero.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\Hechicero.cs",
+              "RelativeDocumentMoniker": "Hechicero.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\Hechicero.cs",
+              "RelativeToolTip": "Hechicero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:41:19.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\Personaje.cs",
+              "RelativeDocumentMoniker": "Personaje.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Practica Final Labo2\\Final German\\Entidades\\Personaje.cs",
+              "RelativeToolTip": "Personaje.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA3wDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:39:41.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InicioPuntosDeDefensa.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Final German\\PruebasUnitarias\\InicioPuntosDeDefensa.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Final German\\PruebasUnitarias\\InicioPuntosDeDefensa.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Final German\\PruebasUnitarias\\InicioPuntosDeDefensa.cs",
+              "RelativeToolTip": "..\\..\\..\\Final German\\PruebasUnitarias\\InicioPuntosDeDefensa.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:36:32.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VidaNegativa.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Final German\\PruebasUnitarias\\VidaNegativa.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Final German\\PruebasUnitarias\\VidaNegativa.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Final German\\PruebasUnitarias\\VidaNegativa.cs",
+              "RelativeToolTip": "..\\..\\..\\Final German\\PruebasUnitarias\\VidaNegativa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:27:31.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TesteDeNivelIncorrecto.cs",
+              "DocumentMoniker": "C:\\Users\\amond\\Desktop\\Final German\\PruebasUnitarias\\TesteDeNivelIncorrecto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Final German\\PruebasUnitarias\\TesteDeNivelIncorrecto.cs",
+              "ToolTip": "C:\\Users\\amond\\Desktop\\Final German\\PruebasUnitarias\\TesteDeNivelIncorrecto.cs",
+              "RelativeToolTip": "..\\..\\..\\Final German\\PruebasUnitarias\\TesteDeNivelIncorrecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:24:42.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

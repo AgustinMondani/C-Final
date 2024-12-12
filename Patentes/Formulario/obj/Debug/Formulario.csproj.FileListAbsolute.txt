@@ -1,0 +1,68 @@
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\bin\Debug\Formulario.exe
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\bin\Debug\Formulario.pdb
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\bin\Debug\Entidades.dll
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\bin\Debug\Entidades.pdb
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\obj\Debug\Formulario.FrmPricipal.resources
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\obj\Debug\Formulario.csproj.Up2Date
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\obj\Debug\Formulario.exe
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\obj\Debug\Formulario.pdb
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\bin\Debug\Archivo.dll
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\bin\Debug\VistaPatentes.dll
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\bin\Debug\Archivo.pdb
+C:\Users\zbarr\OneDrive\Documentos\Barriento.Zahira.SP\Formulario\bin\Debug\VistaPatentes.pdb
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\bin\Debug\Formulario.exe
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\bin\Debug\Formulario.pdb
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\bin\Debug\Archivo.dll
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\bin\Debug\Entidades.dll
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\bin\Debug\VistaPatentes.dll
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\bin\Debug\Archivo.pdb
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\bin\Debug\Entidades.pdb
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\bin\Debug\VistaPatentes.pdb
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.FrmPricipal.resources
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.csproj.Up2Date
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.exe
+C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.pdb
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\bin\Debug\Formulario.exe
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\bin\Debug\Formulario.pdb
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\bin\Debug\Archivo.dll
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\bin\Debug\Entidades.dll
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\bin\Debug\VistaPatentes.dll
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\bin\Debug\Archivo.pdb
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\bin\Debug\Entidades.pdb
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\bin\Debug\VistaPatentes.pdb
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.FrmPricipal.resources
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.exe
+C:\Users\amond\OneDrive\Escritorio\Final Laboratorio II Practica\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.pdb
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\bin\Debug\Formulario.exe
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\bin\Debug\Formulario.pdb
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\bin\Debug\Archivo.dll
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\bin\Debug\Entidades.dll
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\bin\Debug\VistaPatentes.dll
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\bin\Debug\Archivo.pdb
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\bin\Debug\Entidades.pdb
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\bin\Debug\VistaPatentes.pdb
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\obj\Debug\Formulario.FrmPricipal.resources
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\obj\Debug\Formulario.csproj.Up2Date
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\obj\Debug\Formulario.exe
+C:\Users\amond\Desktop\Final Laboratorio II Practica\Patentes\Formulario\obj\Debug\Formulario.pdb
